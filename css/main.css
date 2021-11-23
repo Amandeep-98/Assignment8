@@ -1,0 +1,15 @@
+.content-wrap{
+	padding: 2% 6%; 
+}
+.button-group{
+	padding:1em 0px;
+}
+table, tr,th,td{
+	border-collapse: collapse;
+}
+.active{
+	background-color: yellow;
+}
+.search-wrap{
+	padding: 1em 0px;
+}
